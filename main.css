@@ -27,6 +27,7 @@ li {
 	display:flex;
 	list-style:none;
 	align-items: center;
+	padding:0px 15px;
 }
 li a {
 	color: white;
